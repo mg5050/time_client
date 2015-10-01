@@ -1,6 +1,8 @@
 # time_client
 Python client utilizing RFC 868 standard and threading to keep track of time
 
+![Screenshot](screen.png)
+
 RFC868 Time:
 
     Desc:   
