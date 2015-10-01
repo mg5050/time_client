@@ -19,6 +19,7 @@ RFC868 Time:
         Mike Gonzalez (mgonz50@rutgers.edu)
 
 Usage:
+    
     ./python time.py
 
 Setup HOW-TO:
